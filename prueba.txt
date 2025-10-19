@@ -1,1 +1,1 @@
-LINEA=main original
+LINEA=cambio hecho en rama conflicto
